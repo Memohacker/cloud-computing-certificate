@@ -2,4 +2,5 @@
 hands-on google bootcamp
 
 
-[DfzLm.pdf](https://github.com/Memohacker/cloud-computing-certificate/files/11807819/DfzLm.pdf)
+![cloud](https://github.com/Memohacker/cloud-computing-certificate/assets/92479948/68d9ed9b-98bc-4ddf-bfa5-a4de229ed7f1)
+
